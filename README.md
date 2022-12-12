@@ -1,0 +1,2 @@
+# ha-getraenke
+Getränke-Automat
